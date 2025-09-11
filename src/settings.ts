@@ -3,7 +3,20 @@ export const profile = {
     title: "",
     institute: "",
     author_name: "Steiner Lab",
-    research_areas: []
+    research_areas: [],
+    lab_members: [
+      {
+        name: "Dr. Marie Curie",
+        role: "Principal Investigator",
+        bio: "Pioneer in radioactivity research.",
+        photo: "/images/marie_curie.jpg",
+        socials: {
+        twitter: "https://twitter.com/mariecurie",
+        linkedin: "https://linkedin.com/in/mariecurie"
+      }
+    },
+    // Add more members as needed
+  ],
 };
 
 export const social = {
