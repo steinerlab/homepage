@@ -6,13 +6,21 @@ export const profile = {
     research_areas: [],
     lab_members: [
       {
-        name: "Dr. Marie Curie",
+        name: "Nicholas Steiner",
         role: "Principal Investigator",
-        bio: "Pioneer in radioactivity research.",
-        photo: "/images/marie_curie.jpg",
+        bio: "<TODO: insert bio>.",
+        photo: "/assets/nicholas_steiner.jpg",
         socials: {
-        twitter: "https://twitter.com/mariecurie",
-        linkedin: "https://linkedin.com/in/mariecurie"
+        linkedin: "https://www.linkedin.com/in/steinernick"
+      }
+    },
+          {
+        name: "Nicole West",
+        role: "Graduate Assistant",
+        bio: "<TODO: insert bio>.",
+        // photo: "/assets/west.jpg",
+        socials: {
+            linkedin: "https://www.linkedin.com/in/nicole-a-west-4677103/"
       }
     },
     // Add more members as needed
