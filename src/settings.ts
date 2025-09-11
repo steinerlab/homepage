@@ -27,7 +27,7 @@ export const profile = {
       {
         name: "Nicholas Steiner",
         role: "Principal Investigator",
-        bio: "<TODO: insert bio>.",
+        bio: "Bio coming soon...",
         photo: "/assets/nicholas_steiner.jpg",
         socials: {
         linkedin: "https://www.linkedin.com/in/steinernick"
@@ -36,7 +36,7 @@ export const profile = {
           {
         name: "Nicole West",
         role: "Graduate Assistant",
-        bio: "<TODO: insert bio>.",
+        bio: "Bio coming soon...",
         // photo: "/assets/west.jpg",
         socials: {
             linkedin: "https://www.linkedin.com/in/nicole-a-west-4677103/"
