@@ -13,6 +13,16 @@ export const profile = {
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer euismod ultricies enim eget tincidunt. In eu mi iaculis, pulvinar augue eu, consectetur sapien. Nullam in risus ut erat lobortis aliquet. In aliquet quam nibh, sed finibus elit suscipit a. Nullam finibus pellentesque ornare. Curabitur ac diam euismod, dapibus eros a, pellentesque enim. Nulla et scelerisque neque. Aenean in magna consectetur, sodales arcu vel, luctus nisl. Nulla facilisi. Mauris quis tempus enim. Donec a porta sapien, a consequat est. Proin egestas, ipsum eu eleifend pretium, arcu leo viverra elit, nec consequat nunc ex nec quam. Nulla in luctus elit, ac suscipit nibh. Quisque consequat metus quis lorem pellentesque, at imperdiet ante varius."
       },
     ],
+    publications: [
+      {
+        title: "Pub 1",
+        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer euismod ultricies enim eget tincidunt. In eu mi iaculis, pulvinar augue eu, consectetur sapien. Nullam in risus ut erat lobortis aliquet. In aliquet quam nibh, sed finibus elit suscipit a. Nullam finibus pellentesque ornare. Curabitur ac diam euismod, dapibus eros a, pellentesque enim. Nulla et scelerisque neque. Aenean in magna consectetur, sodales arcu vel, luctus nisl. Nulla facilisi. Mauris quis tempus enim. Donec a porta sapien, a consequat est. Proin egestas, ipsum eu eleifend pretium, arcu leo viverra elit, nec consequat nunc ex nec quam. Nulla in luctus elit, ac suscipit nibh. Quisque consequat metus quis lorem pellentesque, at imperdiet ante varius."
+    },
+    {
+        title: "Pub 2",
+        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer euismod ultricies enim eget tincidunt. In eu mi iaculis, pulvinar augue eu, consectetur sapien. Nullam in risus ut erat lobortis aliquet. In aliquet quam nibh, sed finibus elit suscipit a. Nullam finibus pellentesque ornare. Curabitur ac diam euismod, dapibus eros a, pellentesque enim. Nulla et scelerisque neque. Aenean in magna consectetur, sodales arcu vel, luctus nisl. Nulla facilisi. Mauris quis tempus enim. Donec a porta sapien, a consequat est. Proin egestas, ipsum eu eleifend pretium, arcu leo viverra elit, nec consequat nunc ex nec quam. Nulla in luctus elit, ac suscipit nibh. Quisque consequat metus quis lorem pellentesque, at imperdiet ante varius."
+      },
+    ],
     lab_members: [
       {
         name: "Nicholas Steiner",
