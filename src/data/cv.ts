@@ -45,12 +45,12 @@ export const skills = [
 
 export const publications = [
 	{
-		title: '',
-		authors: '',
-		journal: '',
-		time: '',
-		link: '',
-		abstract: '',
+		title: 'Coming soon ...',
+		authors: 'Coming soon ...',
+		journal: 'Coming soon ...',
+		time: 'Coming soon ...',
+		link: 'Coming soon ...',
+		abstract: 'Coming soon ...',
 	},
 	// {
 	// 	title: 'The Radiation of Uranium Compounds',

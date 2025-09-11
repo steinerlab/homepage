@@ -37,23 +37,8 @@ const { fullName, title, institute, research_areas } = profile
 		</ul>
 	</section>
 	
-	<!-- Recent Publications -->
+    <!-- Recent Publications -->
     <section class='py-12 border-t'>
-        <h2 class="text-2xl font-bold mb-6">Recent Publications</h2>
-        <ul class="space-y-6">
-            {publications.map(pub => (
-				<li class="p-4 border rounded shadow">
-					<h3 class="text-lg font-semibold">{pub.title}</h3>
-					{pub.authors && <p class="text-gray-600 mb-1">{pub.authors}</p>}
-					{pub.journal && <p class="text-gray-400 mb-1 italic">{pub.journal}</p>}
-					{pub.time && <p class="text-gray-400 mb-1">Year: {pub.time}</p>}
-					{pub.link && (
-						<a href={pub.link} class="text-blue-600 underline" target="_blank" rel="noopener noreferrer">
-							View Publication
-						</a>
-					)}
-				</li>
-            ))}
-        </ul>
+        <ArticleList listTitle="Recent Publications" listItems={publications} />
     </section>
 </Layout>
