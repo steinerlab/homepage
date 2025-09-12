@@ -39,7 +39,6 @@ export const profile = {
 export const social = {
     email: "",
     linkedin: "",
-    // x: "https://www.x.com/",
     github: "",
     gitlab: "",
     scholar: "",
