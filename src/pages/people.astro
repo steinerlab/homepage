@@ -29,7 +29,7 @@ const { lab_members } = profile;
               <h2 class="text-xl font-semibold mb-1">{member.name}</h2>
               <div class="text-base text-accent mb-2">{member.role}</div>
               <p class="mb-2">{member.bio}</p>
-              {/* {member.socials && <SocialIcons socials={member.socials} />} */}
+              {member.socials && <SocialIcons socials={member.socials} />}
             </div>
           </div>
         ))
